@@ -15,7 +15,7 @@ do
    sleep 2
    git commit -m "commit messadjs" 
    sleep 2
-   git push origin main --force
+   git push origin master --force
    sleep 3
    rm teemy.txt
    sleep 2
@@ -23,7 +23,7 @@ do
    sleep 2
    git commit -m "commit messadjs" 
    sleep 2
-   git push origin main --force   
+   git push origin master --force   
    now=$(date +"%T")
    echo "Current time : $now"
    echo -e "${RED}current time :$now ${ENDCOLOR}"
