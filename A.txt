@@ -7,4 +7,3 @@ ffh
 fi
 f
 g
-gu
