@@ -5,6 +5,3 @@ gh
 fhg
 ffh
 fi
-f
-g
-hi
