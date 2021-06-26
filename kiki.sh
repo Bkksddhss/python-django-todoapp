@@ -13,7 +13,7 @@ do
    sleep 2
    git add .
    sleep 2
-   git commit -m "commit messadjs" 
+   git commit -m "couobs" 
    sleep 2
    git push origin master --force
    sleep 3
@@ -21,7 +21,7 @@ do
    sleep 2
    git add .
    sleep 2
-   git commit -m "commit messadjs" 
+   git commit -m "cunadjs" 
    sleep 2
    git push origin master --force   
    now=$(date +"%T")
